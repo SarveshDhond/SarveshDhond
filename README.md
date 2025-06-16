@@ -21,15 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=sarveshDhond&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sarveshDhond&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshDhond&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarveshDhond/SarveshDhond/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarveshDhond/SarveshDhond/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SarveshDhond/SarveshDhond/output/pacman-contribution-graph.svg">
-</picture>
-
-###
