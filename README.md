@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SarveshDhond
-- 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning Python programming language
-- 💞️ I’m looking to collaborate on developing Python projects and apps
-- 😄 Pronouns: He/Him
+# 👋 Hello, I am Sarvesh Dhond
+
+## ABOUT ME
+I’m a data analyst on a journey to become a data scientist, driven by curiosity and a love for learning.
+I enjoy experimenting with new ideas, tackling complex problems, and finding creative, out-of-the-box solutions.
+Building machine learning models and diving deep into feature engineering are my favorite ways to turn data into something powerful and meaningful.
 
 ---
 
