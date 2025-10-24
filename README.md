@@ -1,7 +1,9 @@
 # 👋 Hello, I am Sarvesh Dhond
 
 # 💫 ABOUT ME:
-I’m a data analyst on a journey to become a data scientist, driven by curiosity and a love for learning.<br>I enjoy experimenting with new ideas, tackling complex problems, and finding creative, out-of-the-box solutions.<br>Building machine learning models and diving deep into feature engineering are my favorite ways to turn data into something powerful and meaningful.<br>
+I’m a data analyst on a journey to become a data scientist, driven by curiosity and a love for learning.<br>I enjoy experimenting with new ideas, tackling complex problems, and finding creative, out-of-the-box solutions.<br>Building machine learning models and diving deep into feature engineering are my favorite ways to turn data into something powerful and meaningful.
+
+[Checkout my website](https://sarveshdhond.carrd.co/)
 
 
 ## 🌐 SOCIALS:
