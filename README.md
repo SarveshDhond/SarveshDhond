@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing Python projects and apps
 - 😄 Pronouns: He/Him
 
-
+---
 
 # 💻 Tech Stack:
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,6 +15,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarveshDhond&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
