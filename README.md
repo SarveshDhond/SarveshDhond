@@ -4,9 +4,7 @@
   <tr>
     <td style="width:60%; vertical-align: middle;">
       <p>
-        I’m a data analyst on a journey to become a data scientist, driven by curiosity and a love for learning.<br>
-        I enjoy experimenting with new ideas, tackling complex problems, and finding creative, out-of-the-box solutions.<br>
-        Building machine learning models and diving deep into feature engineering are my favorite ways to turn data into something powerful and meaningful.
+        IData Scientist driven by curiosity and continuous learning. I thrive on solving complex problems, experimenting with innovative approaches, and building impactful machine learning models through deep feature engineering and data-driven thinking.
       </p>
     </td>
     <td style="width:40%; text-align:right;">
