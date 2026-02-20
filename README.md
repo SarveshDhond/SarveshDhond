@@ -4,7 +4,7 @@
   <tr>
     <td style="width:60%; vertical-align: middle;">
       <p>
-        IData Scientist driven by curiosity and continuous learning. I thrive on solving complex problems, experimenting with innovative approaches, and building impactful machine learning models through deep feature engineering and data-driven thinking.
+        Data Scientist driven by curiosity and continuous learning. I thrive on solving complex problems, experimenting with innovative approaches, and building impactful machine learning models through deep feature engineering and data-driven approach
       </p>
     </td>
     <td style="width:40%; text-align:right;">
