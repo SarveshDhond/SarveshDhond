@@ -12,7 +12,8 @@
     </td>
   </tr>
 
-[Checkout my website](https://sarveshdhond.carrd.co/)
+[Checkout my website](https://sarveshdhond.lovable.app/)
+[Checkoout my projects](https://github.com/Sarvesh-projects/Index)
 
 # 💻 TECH STACK:
 
