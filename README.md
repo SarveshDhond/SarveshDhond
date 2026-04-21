@@ -12,9 +12,9 @@
     </td>
   </tr>
 
-[Checkout my website](https://sarveshdhond.lovable.app/)
+[🌐 Checkout my website](https://sarveshdhond.lovable.app/)
 
-[Checkout my projects](https://github.com/Sarvesh-projects/Index)
+[🚀 Checkout my projects](https://github.com/Sarvesh-projects/Index)
 
 # 💻 TECH STACK:
 
