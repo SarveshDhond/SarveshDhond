@@ -13,7 +13,8 @@
   </tr>
 
 [Checkout my website](https://sarveshdhond.lovable.app/)
-[Checkoout my projects](https://github.com/Sarvesh-projects/Index)
+
+[Checkout my projects](https://github.com/Sarvesh-projects/Index)
 
 # 💻 TECH STACK:
 
